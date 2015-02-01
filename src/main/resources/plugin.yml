@@ -1,0 +1,4 @@
+name: LevelEffect
+author: mstiles92
+version: '${project.version}'
+main: com.mstiles92.plugins.leveleffect.LevelEffect
